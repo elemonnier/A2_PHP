@@ -1,0 +1,7 @@
+Nom;Prénom ;Téléphone
+Tartempion ;Pierre;1234567890
+Drole;Denom;1203450678
+Bon;Jean;9876543210
+Terieur;Alex;7894560123
+Terieur;Alain;1230456789
+Agauche;Elvire;4560123789
